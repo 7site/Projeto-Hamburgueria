@@ -172,7 +172,7 @@ if(!isOpen){
     }).join("")
 
     const message = encodeURIComponent(cartItems)
-    const phone = "11942129983"
+    const phone = "18997071884"
 
     window.open(`https://wa.me/${phone}?text=${message} Endereço: ${addressInput.value}`, "_blank")
 
